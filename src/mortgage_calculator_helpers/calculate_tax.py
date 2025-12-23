@@ -4,3 +4,7 @@ def print_hello():
 
 def add(a, b):
     return a + b
+
+
+def calculate_yearly_tax():
+    pass
